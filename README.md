@@ -10,6 +10,8 @@ df = pd.read_csv("/data.csv")
 
 Após o upload do arquivo, execute os trechos de códigos na sequência exata em que se encontram.
 
+Vídeo Explicativo do projeto 1A -> https://vimeo.com/1205944901/1d3af6f5bc?share=copy&fl=sv&fe=ci
+
 Projeto B: https://colab.research.google.com/drive/1WTCmYO0MCgfDgY21M3hAgQiVc0eG0Ju4?usp=sharing
 
 Como Rodar o Projeto no Google Colab: Ao abrir o link do google colab, faça o upload da base de dados com o nome diabetes.csv, caso seja necessário altere o caminho relativo da linha.
@@ -17,3 +19,5 @@ Como Rodar o Projeto no Google Colab: Ao abrir o link do google colab, faça o u
 df = pd.read_csv("/diabetes.csv")
 
 Após o upload do arquivo, execute os trechos de códigos na sequência exata em que se encontram.
+
+Vídeo Explicativo do projeto 1B -> https://vimeo.com/1205944927/84add60db6?share=copy&fl=sv&fe=ci
